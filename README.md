@@ -32,3 +32,20 @@ This project ensures efficient management of exam halls, seating plans, and stud
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MdAyesha-28/Exam-Seating-Arrangement.git 
+---
+
+##  Screenshots
+
+### Index
+![Index Screenshot](./screenshots/index.png)
+
+###  Admin Login
+![Admin Login Screenshot](./screenshots/admin_login.png)
+
+### Exam Seating Selection
+![Seating Plan Screenshot](./screenshots/exam_seating.png)
+
+###  Generated Seating
+![Room Management Screenshot](./screenshots/generate_seating.png)
+###  Print Generated Seating
+![Room Management Screenshot](./screenshots/print_generate_seating.png)
